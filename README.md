@@ -4,7 +4,7 @@ This design prototype delves into the art of dynamic indoor acoustics, highlight
 
 The interactive acoustic panel prototype exemplifies these principles. Users can manipulate sound absorption, integrate artificial reverb, and trigger automated adjustments based on factors such as time, light, and ambient sound levels.
 
-The prototype underscores the possibilities of dynamic acoustics in a noise-focused world, prompting contemplation on its potential to enhance human engagement within indoor environments instead of muting auditory environments.
+The prototype underscores the possibilities of dynamic acoustics in a noise-focused world, prompting contemplation on its potential to enhance human engagement within indoor environments instead of muting its auditory characteristics.
 
 [See a demonstration of the prototype in use here.](https://www.thomaseg.dk/)
 
