@@ -11,3 +11,17 @@ The adaptive acoustic method makes use of a gradual change from a reflective to 
 A prototype of an artwork is included in this paper. This artwork seeks to materialize the characteristics of the dynamic acoustic approach through an acoustic panel. This panel allows users to experience and explore the adaptive, additive, and automatic acoustic methods. The panel makes use of rotatable prisms to change the amount of sound-absorption, lets users add artificial reverb to an input signal, and allows the prisms to rotate relatively to time, to the amount of light and sound in a room.
 
 Lastly this paper seeks to discuss the need for and the potential of the dynamic acoustic approach in a world in which acoustics mostly are used to reduce noise-levels. The aural state of this world and the definition of noise is presented to enlighten this discussion, while the question of human controllability is included to the create basis for reflections upon how this dynamic approach could be used to improve the human experience of and in room acoustics.
+
+[See a demonstration of the prototype in use here.](https://www.thomaseg.dk/)
+
+## Design prototype
+![Design prototype](images/overview.png)
+
+## Levels of acoustic absorption
+![Acoustic modes](images/modes.png)
+
+## Interface
+![User interface](images/interface.png)
+
+## Motors and electronic circuit
+![Circuit](images/circuit.png)
